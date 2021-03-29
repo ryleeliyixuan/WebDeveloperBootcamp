@@ -1,6 +1,6 @@
 # WebDeveloperBootcamp
-Course Title: The Web Developer Bootcamp 2021
-Link: https://www.udemy.com/course/the-web-developer-bootcamp/
+- Course Title: The Web Developer Bootcamp 2021
+- Link: https://www.udemy.com/course/the-web-developer-bootcamp/
 
 ## Learning Content
 
